@@ -2,3 +2,4 @@
 
 Project provides an overview of business negotiations 
 
+![image](Negotiations.jpg)
