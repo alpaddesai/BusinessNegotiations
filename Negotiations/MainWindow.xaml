@@ -1,0 +1,17 @@
+﻿<Window x:Class="Negotiations.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Negotiations"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="390" Width="607">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="623*"/>
+            <ColumnDefinition Width="177*"/>
+        </Grid.ColumnDefinitions>
+        <Image Margin="3,8,16,11" Source="/Negotiations.jpg" Stretch="Fill" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
