@@ -2,6 +2,6 @@
 
 Project provides an overview of business negotiations 
 
-![image](Negotiations.jpg)
+![image](slide.jpg)
 
 Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
