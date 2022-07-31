@@ -4,4 +4,4 @@ Project provides an overview of business negotiations
 
 ![image](slide.jpg)
 
-Additional details reference https://github.com/alpaddesai/PowerandInfluentialSkills.
+Additional details reference https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/TestScores.
