@@ -4,6 +4,6 @@ Project provides an overview of business negotiations
 
 ![image](slide.jpg)
 
-![image](
+![image](GMAT_TestScore.jpg)
 
 Additional details reference https://github.com/alpaddesai/PowerandInfluentialSkills
