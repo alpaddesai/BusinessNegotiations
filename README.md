@@ -13,3 +13,6 @@ The project provides a high level overview of the academic knowledge associated 
 
 ## Negotiation Cases
 ![image](NegotiationCases.jpg)
+
+## US Copyright Certifications
+![image](USCopyrightCertificate.png)
