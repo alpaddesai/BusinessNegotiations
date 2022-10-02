@@ -10,3 +10,6 @@ The project provides a high level overview of the academic knowledge associated 
 
 ## Breakthorough Negotiations
 ![image](Breakthrough.jpg)
+
+## Negotiation Cases
+![image](NegotiationCases.jpg)
