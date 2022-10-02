@@ -7,3 +7,6 @@ The project provides a high level overview of the academic knowledge associated 
 
 ## Trust
 ![image](TrustFactorSlide.jpg)
+
+## Breakthorough Negotiations
+![image](Breakthrough.jpg)
