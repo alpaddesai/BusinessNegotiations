@@ -5,13 +5,49 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Negotiations"
         mc:Ignorable="d"
-        Title="MainWindow" Height="390" Width="607">
+        Title="MainWindow" Height="597" Width="945">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="623*"/>
-            <ColumnDefinition Width="177*"/>
+            <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Image Margin="3,8,16,11" Source="/Negotiations.jpg" Stretch="Fill" Grid.ColumnSpan="2"/>
+        <TabControl>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="81*"/>
+                        <ColumnDefinition Width="520*"/>
+                    </Grid.ColumnDefinitions>
+                    <TabControl Grid.ColumnSpan="2">
+                        <TabItem Header="Negotiations">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="5,10,15,11" Source="/Negotiations.jpg" Stretch="Fill"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Breakthorough">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="6,7,5,11" Source="/Breakthrough.jpg" Stretch="Fill"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl>
+                        <TabItem Header="TrustFactor">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="1,-1,2,7" Source="/TrustFactorSlide.jpg" Stretch="Fill"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="NegotiationCases">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="1,9,8,6" Source="/NegotiationCases.jpg" Stretch="Fill"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+        </TabControl>
 
     </Grid>
 </Window>
