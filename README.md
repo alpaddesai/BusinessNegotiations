@@ -17,4 +17,7 @@ The project provides a high level overview of the academic knowledge associated 
 ## US Copyright Certifications
 ![image](USCopyrightCertificate.png)
 
+## Ethics
+![image](Ethics.jpg)
+
 Additional details reference https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations
