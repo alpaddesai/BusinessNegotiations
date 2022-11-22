@@ -14,9 +14,6 @@ The project provides a high level overview of the academic knowledge associated 
 ## Negotiation Cases
 ![image](NegotiationCases.jpg)
 
-## Non professional applications
-![image](BusinessNegotiations.jpg)
-
 ## US Copyright Certifications
 ![image](USCopyrightCertificate.png)
 
